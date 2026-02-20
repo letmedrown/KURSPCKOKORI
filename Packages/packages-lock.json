@@ -30,6 +30,18 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "com.happyrobot33.buildsizeviewer": {
+      "version": "file:com.happyrobot33.buildsizeviewer",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.happyrobot33.packagewindowconsolidator": {
+      "version": "file:com.happyrobot33.packagewindowconsolidator",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.kinematicsoup.scenefusion2": {
       "version": "https://github.com/KinematicSoup/Releases.git?path=/SceneFusion/2.0.4",
       "depth": 0,
@@ -258,6 +270,12 @@
         "com.unity.nuget.newtonsoft-json": "3.0.2"
       }
     },
+    "d4rkpl4y3r.d4rkavataroptimizer": {
+      "version": "file:d4rkpl4y3r.d4rkavataroptimizer",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "de.thryrallo.vrc.avatar-performance-tools": {
       "version": "file:de.thryrallo.vrc.avatar-performance-tools",
       "depth": 0,
@@ -358,6 +376,12 @@
     },
     "io.github.sophiebluevr.avatardresser": {
       "version": "file:io.github.sophiebluevr.avatardresser",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "io.github.sophiebluevr.extrafootcolliders": {
+      "version": "file:io.github.sophiebluevr.extrafootcolliders",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
