@@ -42,9 +42,6 @@
     "wholesomevr.sps-configurator": {
       "version": "2.0.11"
     },
-    "com.poiyomi.pro": {
-      "version": "9.3.66"
-    },
     "adjerry91.vrcft.templates": {
       "version": "7.0.4"
     },
@@ -65,9 +62,6 @@
     },
     "com.chocopoi.vrc.avatarlib": {
       "version": "1.1.1"
-    },
-    "com.chocopoi.vrc.dressingtools": {
-      "version": "2.6.0"
     },
     "io.github.sophiebluevr.avatardresser": {
       "version": "0.1.12"
@@ -140,6 +134,9 @@
     },
     "wtf.buddyworks.toolbox": {
       "version": "1.6.4"
+    },
+    "com.poiyomi.toon": {
+      "version": "9.3.64"
     }
   },
   "locked": {
@@ -213,10 +210,6 @@
         "com.vrchat.avatars": "3.*"
       }
     },
-    "com.poiyomi.pro": {
-      "version": "9.3.66",
-      "dependencies": {}
-    },
     "adjerry91.vrcft.templates": {
       "version": "7.0.4",
       "dependencies": {}
@@ -247,18 +240,6 @@
     },
     "com.chocopoi.vrc.avatarlib": {
       "version": "1.1.1",
-      "dependencies": {}
-    },
-    "com.chocopoi.vrc.dressingtools": {
-      "version": "2.6.0",
-      "dependencies": {
-        "com.vrchat.avatars": ">=3.2.0",
-        "com.chocopoi.vrc.avatarlib": "^1.1.0",
-        "com.chocopoi.vrc.dressingframework": "^2.1.1"
-      }
-    },
-    "com.chocopoi.vrc.dressingframework": {
-      "version": "2.1.1",
       "dependencies": {}
     },
     "io.github.sophiebluevr.avatardresser": {
@@ -398,6 +379,10 @@
         "com.vrchat.avatars": "3.x.x",
         "com.vrcfury.vrcfury": ">=1.1127.0"
       }
+    },
+    "com.poiyomi.toon": {
+      "version": "9.3.64",
+      "dependencies": {}
     }
   }
 }

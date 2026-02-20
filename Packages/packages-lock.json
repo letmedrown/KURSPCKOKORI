@@ -12,24 +12,6 @@
       "source": "embedded",
       "dependencies": {}
     },
-    "com.chocopoi.vrc.dressingframework": {
-      "version": "file:com.chocopoi.vrc.dressingframework",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {
-        "com.unity.nuget.newtonsoft-json": "2.0.2"
-      }
-    },
-    "com.chocopoi.vrc.dressingtools": {
-      "version": "file:com.chocopoi.vrc.dressingtools",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {
-        "com.unity.nuget.newtonsoft-json": "2.0.2",
-        "com.chocopoi.vrc.avatarlib": "1.1.0",
-        "com.chocopoi.vrc.dressingframework": "2.1.1"
-      }
-    },
     "com.facs01.facs_utilities": {
       "version": "file:com.facs01.facs_utilities",
       "depth": 0,
@@ -73,8 +55,8 @@
       "source": "embedded",
       "dependencies": {}
     },
-    "com.poiyomi.pro": {
-      "version": "file:com.poiyomi.pro",
+    "com.poiyomi.toon": {
+      "version": "file:com.poiyomi.toon",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}

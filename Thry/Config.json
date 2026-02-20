@@ -1,13 +1,22 @@
 {
+    "lastVersion": {
+        "_stringValue": "2.69.3"
+    },
+    "loggingLevel": 1,
     "default_texture_type": 0,
     "showRenderQueue": true,
     "showManualReloadButton": false,
     "showColorspaceWarnings": true,
     "allowCustomLockingRenaming": false,
     "autoMarkPropertiesAnimated": true,
+    "showStarNextToNonDefaultProperties": true,
+    "showNotes": true,
     "texturePackerCompressionWithAlphaOverwrite": -1,
     "texturePackerCompressionNoAlphaOverwrite": -1,
     "gradientEditorCompressionOverwrite": -1,
+    "inlinePackerSaveLocation": 0,
+    "inlinePackerSaveLocationCustom": "Assets/Textures/Packed",
+    "inlinePackerChrunchCompression": false,
     "locale": "English",
     "gradient_name": "gradient_<hash>.png",
     "autoSetAnchorOverride": true,
@@ -18,6 +27,5 @@
     "disableUnlockedShaderStrippingOnBuild": false,
     "forceAsyncCompilationPreview": true,
     "fixKeywordsWhenLocking": true,
-    "saveAfterLockUnlock": true,
-    "verion": "2.57.0"
+    "saveAfterLockUnlock": true
 }
