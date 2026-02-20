@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7665316963547262366
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7665316963547262337}
+  - component: {fileID: 7665316963547262336}
+  m_Layer: 0
+  m_Name: Haptic Socket
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7665316963547262337
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7665316963547262366}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.8122355, y: 6.58548e-10, z: -6.9367125e-13, w: 0.58332986}
+  m_LocalPosition: {x: -0, y: 0.0402, z: -0.0358}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 108.630005, y: 0, z: 0}
+--- !u!114 &7665316963547262336
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7665316963547262366}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 703106f8586c4f64b5aa39b6b4676684, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 8
+  unityVersion: 2022.3.22f1
+  vrcfuryVersion: 1.1279.0
+  addLight: 2
+  name: Frotting
+  enableHandTouchZone2: 2
+  length: 0
+  unitsInMeters: 1
+  addMenuItem: 0
+  menuIcon:
+    version: 1
+    fileID: 0
+    guid: 
+    id: 
+    objRef: {fileID: 0}
+  enableAuto: 1
+  position: {x: 0, y: 0, z: 0}
+  rotation: {x: 0, y: 0, z: 0}
+  depthActions2:
+  - actionSet:
+      actions:
+      - rid: 0
+    range: {x: -0.07, y: 0}
+    units: 0
+    enableSelf: 1
+    smoothingSeconds: 0
+    reverseClip: 0
+  - actionSet:
+      actions:
+      - rid: 1
+    range: {x: -0.07, y: 0}
+    units: 0
+    enableSelf: 0
+    smoothingSeconds: 0
+    reverseClip: 0
+  activeActions:
+    actions: []
+  useHipAvoidance: 1
+  enablePlugLengthParameter: 0
+  plugLengthParameterName: 
+  enablePlugWidthParameter: 0
+  plugWidthParameterName: 
+  enableDepthAnimations: 1
+  depthActions: []
+  enableActiveAnimation: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 0
+      type: {class: FxFloatAction, ns: VF.Model.StateAction, asm: VRCFury}
+      data:
+        version: 0
+        desktopActive: 0
+        androidActive: 0
+        localOnly: 0
+        remoteOnly: 0
+        name: WH Lollipop/Foreskin BS Slide Reversed
+        value: 1
+    - rid: 1
+      type: {class: AnimationClipAction, ns: VF.Model.StateAction, asm: VRCFury}
+      data:
+        version: 0
+        desktopActive: 0
+        androidActive: 0
+        localOnly: 0
+        remoteOnly: 0
+        clip:
+          version: 1
+          fileID: 0
+          guid: 
+          id: 511b6c60a1f1c2a4585fd13f270df708|Assets/! kurs/3.0/!Wholesome/Lollipop/Shared/Animation/Foreskin
+            UV Slide Reversed35.anim
+          objRef: {fileID: 7400000, guid: 511b6c60a1f1c2a4585fd13f270df708, type: 2}

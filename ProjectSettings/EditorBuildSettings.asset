@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/KURSbykokori3D.unity
+    guid: 1b3848803d3c8554bac9e7a5a8f64d60
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: a7c1ebfa9b62b274a9e3621ea38fc68d,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: dde64441e7317594b8bce5b20277832c,
+      type: 2}

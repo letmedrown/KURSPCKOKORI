@@ -1,0 +1,60 @@
+2026-02-16 02:19:28.5796 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:28.5861 [WARNING] Cannot remove list element '#subscriptions[1]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:29.0411 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:29.0416 [WARNING] Cannot remove list element '#subscriptions[2]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:29.4382 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:29.4387 [WARNING] Cannot remove list element '#subscriptions[3]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:29.8303 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:29.8303 [WARNING] Cannot remove list element '#subscriptions[4]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:30.2223 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:30.2228 [WARNING] Cannot remove list element '#subscriptions[5]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:30.6169 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:30.6174 [WARNING] Cannot remove list element '#subscriptions[6]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:31.1820 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:31.1820 [WARNING] Cannot remove list element '#subscriptions[7]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:31.6025 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:31.6030 [WARNING] Cannot remove list element '#subscriptions[8]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:32.0941 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:32.0946 [WARNING] Cannot remove list element '#subscriptions[9]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:32.5912 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:32.7727 [WARNING] Cannot remove list element '#subscriptions[10]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:33.2793 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:33.2793 [WARNING] Cannot remove list element '#subscriptions[11]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:33.6724 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:33.6729 [WARNING] Cannot remove list element '#subscriptions[12]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:34.1644 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:34.1644 [WARNING] Cannot remove list element '#subscriptions[13]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:34.5605 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:34.5610 [WARNING] Cannot remove list element '#subscriptions[14]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:34.9541 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:34.9546 [WARNING] Cannot remove list element '#subscriptions[15]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:35.3476 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:35.3481 [WARNING] Cannot remove list element '#subscriptions[16]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:35.8477 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:35.8482 [WARNING] Cannot remove list element '#subscriptions[17]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:36.4383 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:36.4393 [WARNING] Cannot remove list element '#subscriptions[18]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:37.0234 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:37.0244 [WARNING] Cannot remove list element '#subscriptions[19]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:37.5215 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:37.5225 [WARNING] Cannot remove list element '#subscriptions[20]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:38.0135 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:38.0140 [WARNING] Cannot remove list element '#subscriptions[21]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:38.6031 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:38.6041 [WARNING] Cannot remove list element '#subscriptions[22]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:39.0927 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:39.0932 [WARNING] Cannot remove list element '#subscriptions[23]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:39.4913 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:39.4918 [WARNING] Cannot remove list element '#subscriptions[24]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:39.8843 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:39.8848 [WARNING] Cannot remove list element '#subscriptions[25]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:40.4744 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:40.4749 [WARNING] Cannot remove list element '#subscriptions[26]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:40.8680 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:40.8685 [WARNING] Cannot remove list element '#subscriptions[27]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:41.2625 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:41.2625 [WARNING] Cannot remove list element '#subscriptions[28]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:41.7561 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:41.7571 [WARNING] Cannot remove list element '#subscriptions[29]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')
+2026-02-16 02:19:42.1492 [WARNING] Object creation failed: Object limit (1) reached for type 'Scene'.
+2026-02-16 02:19:42.1502 [WARNING] Cannot remove list element '#subscriptions[30]'. Edits are disabled while Scene Fusion is applying updates. (Type: 'SceneSubscriptions')

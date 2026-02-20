@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: KURSMenu
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: 2ca4b9d63748d9945bb769de95263ce2, type: 2}
+  controls:
+  - name: <b><color=#000000>clothes</color></b>
+    icon: {fileID: 2800000, guid: 82567963aef1bbb4698ee8f2af1f13c7, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 50eba540feb71894d8ecf6d924f46fe1, type: 2}
+    subParameters:
+    - name: 
+    labels: []
+  - name: <b><color=#000000>species</color></b>
+    icon: {fileID: 2800000, guid: 9e7dd5f1b78b2c944a9a7d25ea3685f1, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 215d683bc95deeb41b229ec2bb92e1e2, type: 2}
+    subParameters:
+    - name: 
+    labels: []
+  - name: <b><color=#000000>hair</color></b>
+    icon: {fileID: 2800000, guid: c633ad16c1f3887479b7724f28cf75a8, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: b5b9ce4e1b6502a4d81dcedb1926f6ef, type: 2}
+    subParameters:
+    - name: 
+    labels: []
+  - name: <b><color=#000000>colors</color></b>
+    icon: {fileID: 2800000, guid: 54531c2b7c1731749a2a462362f64402, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 83f9ee4ea1be3194eaca4e8d223ab020, type: 2}
+    subParameters:
+    - name: 
+    labels: []
+  - name: <b><color=#000000>customize</color></b>
+    icon: {fileID: 2800000, guid: 214e90ee838c8674596cc33ac5c923b2, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 69ac7054f92bbc8478e6793c431e0484, type: 2}
+    subParameters:
+    - name: 
+    labels: []
+  - name: <b><color=#000000>systems</color></b>
+    icon: {fileID: 2800000, guid: d119ec706661a8f4189046121b075b22, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: fc13f69ff3dd85b45aa4190a72d3478e, type: 2}
+    subParameters:
+    - name: 
+    labels: []
+  - name: <i><b><color=#000000>.gg/kokori</color></b></i>
+    icon: {fileID: 2800000, guid: 8a815aa3e938dbd4b9fb32e4cf769d57, type: 3}
+    type: 101
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

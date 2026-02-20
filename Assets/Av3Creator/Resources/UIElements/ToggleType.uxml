@@ -1,0 +1,34 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/Av3Creator/Resources/UIElements/ToggleManager.uss?fileID=7433441132597879392&amp;guid=6786dd0389e5b40479dea0a5262130a8&amp;type=3#ToggleManager" />
+    <ui:VisualElement name="Content" style="flex-grow: 1; padding-left: 5px; padding-right: 5px; padding-top: 5px; padding-bottom: 5px;">
+        <ui:VisualElement name="ToggleType">
+            <ui:TextField picking-mode="Ignore" label="Toggle Name" value="A3C Toggle" text="A3C Toggle" name="toggleName" />
+        </ui:VisualElement>
+        <ui:TextField picking-mode="Ignore" label="Parameter" value="filler text" text="Av3Creator/Parameter/Example" name="Parameter" />
+        <ui:Button text="Edit in Advanced Toggles" name="Edit" />
+        <uie:ObjectField label="Asset" name="ParentObject" />
+        <ui:VisualElement name="MoreInfo" style="border-top-left-radius: 3px; border-bottom-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; padding-left: 5px; padding-right: 5px; padding-top: 5px; padding-bottom: 5px; margin-left: 5px; margin-right: 5px; margin-top: 3px; margin-bottom: 1px; background-color: rgba(0, 0, 0, 0.25);">
+            <ui:Foldout text="More Information" value="true">
+                <ui:VisualElement style="flex-direction: row; background-color: rgba(0, 0, 0, 0.22); padding-left: 3px; padding-right: 3px; padding-top: 3px; padding-bottom: 3px; border-top-left-radius: 3px; border-bottom-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px;">
+                    <ui:Label text="Memory Usage" style="flex-grow: 1;" />
+                    <ui:Label text="1 Byte" name="ByteCount" style="-unity-font-style: bold;" />
+                </ui:VisualElement>
+                <ui:VisualElement style="flex-direction: row; background-color: rgba(0, 0, 0, 0.22); padding-left: 3px; padding-right: 3px; padding-top: 3px; padding-bottom: 3px; border-top-left-radius: 3px; border-bottom-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; margin-top: 3px;">
+                    <ui:Label text="Layer" style="flex-grow: 1;" />
+                    <ui:Label text="Av3Toggle: Cloth" name="ByteCount" style="-unity-font-style: bold;" />
+                </ui:VisualElement>
+                <ui:VisualElement style="flex-direction: row; background-color: rgba(0, 0, 0, 0.22); padding-left: 3px; padding-right: 3px; padding-top: 3px; padding-bottom: 3px; border-top-left-radius: 3px; border-bottom-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; margin-top: 3px;">
+                    <ui:Label text="Is Advanced Toggle" style="flex-grow: 1;" />
+                    <ui:Label text="Yes" name="ByteCount" style="-unity-font-style: bold;" />
+                </ui:VisualElement>
+            </ui:Foldout>
+        </ui:VisualElement>
+        <ui:VisualElement name="MultiEdit" style="position: absolute; left: 0; top: 0; right: 0; bottom: 0; background-color: rgba(0, 0, 0, 0.65); display: none;">
+            <ui:Label text="Multi-Edit isn&apos;t supported" style="flex-grow: 1; font-size: 20px; -unity-text-align: middle-center;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+    <ui:VisualElement name="Footer" style="background-color: rgba(0, 0, 0, 0.3); padding-left: 5px; padding-right: 5px; padding-top: 5px; padding-bottom: 5px; flex-direction: row; height: 32px;">
+        <ui:Button text="Remove from Menu" name="RemoveFromMenu" style="flex-direction: column; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; flex-grow: 1; border-top-right-radius: 0; border-bottom-right-radius: 0; border-left-width: 0; border-right-width: 0; border-top-width: 0; border-bottom-width: 0;" />
+        <ui:Button text="Remove Completely" name="RemoveCompletely" style="flex-direction: column; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; flex-grow: 1; background-color: rgb(115, 57, 57); border-top-left-radius: 0; border-bottom-left-radius: 0; border-left-width: 0; border-right-width: 0; border-top-width: 0; border-bottom-width: 0;" />
+    </ui:VisualElement>
+</ui:UXML>

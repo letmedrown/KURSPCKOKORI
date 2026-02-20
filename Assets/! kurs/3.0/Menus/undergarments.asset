@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: undergarments
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
+  controls:
+  - name: <color=#000000>pasties</color>
+    icon: {fileID: 2800000, guid: 54531c2b7c1731749a2a462362f64402, type: 3}
+    type: 102
+    parameter:
+      name: A3C/Toggle/pasties
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <color=#0C0C0C>bikini top</color>
+    icon: {fileID: 2800000, guid: 54531c2b7c1731749a2a462362f64402, type: 3}
+    type: 102
+    parameter:
+      name: A3C/Toggle/bikini top
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <color=#000000>bikini bottom</color>
+    icon: {fileID: 2800000, guid: 54531c2b7c1731749a2a462362f64402, type: 3}
+    type: 102
+    parameter:
+      name: A3C/Toggle/bikini bottom
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <color=#000000>bodysuit</color>
+    icon: {fileID: 2800000, guid: 54531c2b7c1731749a2a462362f64402, type: 3}
+    type: 102
+    parameter:
+      name: A3C/Toggle/bodysuit
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <color=#000000>arm cuffs</color>
+    icon: {fileID: 2800000, guid: 54531c2b7c1731749a2a462362f64402, type: 3}
+    type: 102
+    parameter:
+      name: A3C/Toggle/arm cuffs
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <color=#000000>harness</color>
+    icon: {fileID: 2800000, guid: 54531c2b7c1731749a2a462362f64402, type: 3}
+    type: 102
+    parameter:
+      name: A3C/Toggle/harness
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <color=#000000>garter straps</color>
+    icon: {fileID: 2800000, guid: 54531c2b7c1731749a2a462362f64402, type: 3}
+    type: 102
+    parameter:
+      name: A3C/Toggle/garter straps
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: accessories
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
+  controls:
+  - name: <color=#000000>R warmer</color>
+    icon: {fileID: 2800000, guid: 54531c2b7c1731749a2a462362f64402, type: 3}
+    type: 102
+    parameter:
+      name: R warmer
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <color=#000000>L warmer</color>
+    icon: {fileID: 2800000, guid: 54531c2b7c1731749a2a462362f64402, type: 3}
+    type: 102
+    parameter:
+      name: L warmer
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <color=#000000>string choker</color>
+    icon: {fileID: 2800000, guid: 54531c2b7c1731749a2a462362f64402, type: 3}
+    type: 102
+    parameter:
+      name: A3C/Toggle/string choker
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <color=#000000>collar</color>
+    icon: {fileID: 2800000, guid: 54531c2b7c1731749a2a462362f64402, type: 3}
+    type: 102
+    parameter:
+      name: A3C/Toggle/collar
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <color=#000000>gloves</color>
+    icon: {fileID: 2800000, guid: 54531c2b7c1731749a2a462362f64402, type: 3}
+    type: 102
+    parameter:
+      name: A3C/Toggle/gloves
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <color=#000000>garter bag</color>
+    icon: {fileID: 2800000, guid: 54531c2b7c1731749a2a462362f64402, type: 3}
+    type: 102
+    parameter:
+      name: A3C/Toggle/garter bag
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <color=#000000>dufflebag</color>
+    icon: {fileID: 2800000, guid: 54531c2b7c1731749a2a462362f64402, type: 3}
+    type: 102
+    parameter:
+      name: A3C/Toggle/dufflebag
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <color=#000000>head accessories</color>
+    icon: {fileID: 2800000, guid: 54531c2b7c1731749a2a462362f64402, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 775090c369b1b8940a1f1d557e5cfe25, type: 2}
+    subParameters:
+    - name: 
+    labels: []

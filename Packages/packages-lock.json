@@ -1,0 +1,749 @@
+{
+  "dependencies": {
+    "adjerry91.vrcft.templates": {
+      "version": "file:adjerry91.vrcft.templates",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.chocopoi.vrc.avatarlib": {
+      "version": "file:com.chocopoi.vrc.avatarlib",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.chocopoi.vrc.dressingframework": {
+      "version": "file:com.chocopoi.vrc.dressingframework",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "2.0.2"
+      }
+    },
+    "com.chocopoi.vrc.dressingtools": {
+      "version": "file:com.chocopoi.vrc.dressingtools",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "2.0.2",
+        "com.chocopoi.vrc.avatarlib": "1.1.0",
+        "com.chocopoi.vrc.dressingframework": "2.1.1"
+      }
+    },
+    "com.facs01.facs_utilities": {
+      "version": "file:com.facs01.facs_utilities",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.gabsith.wft": {
+      "version": "file:com.gabsith.wft",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.github.matzzteg.unityautosave": {
+      "version": "file:com.github.matzzteg.unityautosave",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.kinematicsoup.scenefusion2": {
+      "version": "https://github.com/KinematicSoup/Releases.git?path=/SceneFusion/2.0.4",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "ce46950643c08568c16b9794289c841a22717fb9"
+    },
+    "com.laurarozier.lauraeditortools": {
+      "version": "file:com.laurarozier.lauraeditortools",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.laurarozier.vrcwritedefaultstool": {
+      "version": "file:com.laurarozier.vrcwritedefaultstool",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.llealloo.audiolink": {
+      "version": "file:com.llealloo.audiolink",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.poiyomi.pro": {
+      "version": "file:com.poiyomi.pro",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.unity.burst": {
+      "version": "1.8.12",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.mathematics": "1.2.1",
+        "com.unity.modules.jsonserialize": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.collections": {
+      "version": "2.1.4",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.burst": "1.8.4",
+        "com.unity.nuget.mono-cecil": "1.11.4",
+        "com.unity.modules.unityanalytics": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.ext.nunit": {
+      "version": "1.0.6",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.ide.rider": {
+      "version": "3.0.26",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ext.nunit": "1.0.6"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.ide.visualstudio": {
+      "version": "2.0.22",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.test-framework": "1.1.9"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.ide.vscode": {
+      "version": "1.2.5",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.mathematics": {
+      "version": "1.2.6",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.nuget.mono-cecil": {
+      "version": "1.11.4",
+      "depth": 2,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.nuget.newtonsoft-json": {
+      "version": "3.2.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.postprocessing": {
+      "version": "3.4.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.physics": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.test-framework": {
+      "version": "1.1.29",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ext.nunit": "1.0.6",
+        "com.unity.modules.imgui": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.textmeshpro": {
+      "version": "2.1.6",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.timeline": {
+      "version": "1.7.6",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.audio": "1.0.0",
+        "com.unity.modules.director": "1.0.0",
+        "com.unity.modules.animation": "1.0.0",
+        "com.unity.modules.particlesystem": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.ugui": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.ui": "1.0.0",
+        "com.unity.modules.imgui": "1.0.0"
+      }
+    },
+    "com.unity.xr.legacyinputhelpers": {
+      "version": "2.1.10",
+      "depth": 2,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.vr": "1.0.0",
+        "com.unity.modules.xr": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.xr.management": {
+      "version": "4.5.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.vr": "1.0.0",
+        "com.unity.modules.xr": "1.0.0",
+        "com.unity.modules.subsystems": "1.0.0",
+        "com.unity.xr.legacyinputhelpers": "2.1.7"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.xr.oculus": {
+      "version": "4.2.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.xr.management": "4.4.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.vrcfury.temp": {
+      "version": "file:com.vrcfury.temp",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.vrcfury.vrcfury": {
+      "version": "file:com.vrcfury.vrcfury",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.vrchat.avatars": {
+      "version": "file:com.vrchat.avatars",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.vrchat.base": {
+      "version": "file:com.vrchat.base",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.burst": "1.8.7",
+        "com.unity.collections": "2.1.4",
+        "com.unity.mathematics": "1.2.6",
+        "com.unity.nuget.newtonsoft-json": "3.2.1",
+        "com.unity.timeline": "1.7.6",
+        "com.unity.xr.management": "4.3.3",
+        "com.unity.xr.oculus": "4.0.0",
+        "com.unity.postprocessing": "3.2.2",
+        "com.unity.ugui": "1.0.0"
+      }
+    },
+    "com.vrchat.core.vpm-resolver": {
+      "version": "file:com.vrchat.core.vpm-resolver",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.0.2"
+      }
+    },
+    "de.thryrallo.vrc.avatar-performance-tools": {
+      "version": "file:de.thryrallo.vrc.avatar-performance-tools",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "dev.foxscore.easy-login": {
+      "version": "file:dev.foxscore.easy-login",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "dev.hai-vr.animator-as-code.v1": {
+      "version": "file:dev.hai-vr.animator-as-code.v1",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "dev.hai-vr.blendshape-viewer": {
+      "version": "file:dev.hai-vr.blendshape-viewer",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "dev.hai-vr.blendtree-viewer": {
+      "version": "file:dev.hai-vr.blendtree-viewer",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "dev.hai-vr.denormalized-avatar-exporter": {
+      "version": "file:dev.hai-vr.denormalized-avatar-exporter",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "dev.hai-vr.property-finder": {
+      "version": "file:dev.hai-vr.property-finder",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "dev.hai-vr.resilience.let-me-see": {
+      "version": "file:dev.hai-vr.resilience.let-me-see",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.xr.management": "4.5.0"
+      }
+    },
+    "dev.hai-vr.resilience.toolkit": {
+      "version": "file:dev.hai-vr.resilience.toolkit",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "dev.vrlabs.av3manager": {
+      "version": "file:dev.vrlabs.av3manager",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "dev.vrlabs.hierarchyplus": {
+      "version": "file:dev.vrlabs.hierarchyplus",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "dev.vrlabs.instancer": {
+      "version": "file:dev.vrlabs.instancer",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "gogoloco": {
+      "version": "file:gogoloco",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "io.github.rurre.pumkinsavatartools": {
+      "version": "file:io.github.rurre.pumkinsavatartools",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "io.github.sophiebluevr.armaturecleanup": {
+      "version": "file:io.github.sophiebluevr.armaturecleanup",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "io.github.sophiebluevr.armaturereset": {
+      "version": "file:io.github.sophiebluevr.armaturereset",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "io.github.sophiebluevr.avatardresser": {
+      "version": "file:io.github.sophiebluevr.avatardresser",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "jp.lilxyzw.anythingreplacer": {
+      "version": "file:jp.lilxyzw.anythingreplacer",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "jp.lilxyzw.avatar-utils": {
+      "version": "file:jp.lilxyzw.avatar-utils",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "jp.lilxyzw.editortoolbox": {
+      "version": "file:jp.lilxyzw.editortoolbox",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "jp.lilxyzw.lilemo": {
+      "version": "file:jp.lilxyzw.lilemo",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "jp.lilxyzw.lilpbr": {
+      "version": "file:jp.lilxyzw.lilpbr",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "jp.lilxyzw.liltoon": {
+      "version": "file:jp.lilxyzw.liltoon",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "jp.lilxyzw.lilycalinventory": {
+      "version": "file:jp.lilxyzw.lilycalinventory",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "jp.lilxyzw.ndmfmeshsimplifier": {
+      "version": "file:jp.lilxyzw.ndmfmeshsimplifier",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "jp.lilxyzw.outlinesmoother": {
+      "version": "file:jp.lilxyzw.outlinesmoother",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "lyuma.av3emulator": {
+      "version": "file:lyuma.av3emulator",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "nadena.dev.misc-vrc-tools": {
+      "version": "file:nadena.dev.misc-vrc-tools",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "nadena.dev.modular-avatar": {
+      "version": "file:nadena.dev.modular-avatar",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "2.0.0"
+      }
+    },
+    "nadena.dev.ndmf": {
+      "version": "file:nadena.dev.ndmf",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.modules.animation": "1.0.0"
+      }
+    },
+    "org.kb10uy.zatools": {
+      "version": "file:org.kb10uy.zatools",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.burst": "1.8.0",
+        "com.unity.mathematics": "1.2.0",
+        "com.unity.nuget.newtonsoft-json": "3.0.0"
+      }
+    },
+    "vrchat.blackstartx.gesture-manager": {
+      "version": "file:vrchat.blackstartx.gesture-manager",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "wholesomevr.sps-configurator": {
+      "version": "file:wholesomevr.sps-configurator",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "wtf.buddyworks.avatardynamics": {
+      "version": "file:wtf.buddyworks.avatardynamics",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "wtf.buddyworks.editortools": {
+      "version": "file:wtf.buddyworks.editortools",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "wtf.buddyworks.toolbox": {
+      "version": "file:wtf.buddyworks.toolbox",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.unity.modules.ai": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.androidjni": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.animation": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.assetbundle": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.audio": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.cloth": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.physics": "1.0.0"
+      }
+    },
+    "com.unity.modules.director": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.audio": "1.0.0",
+        "com.unity.modules.animation": "1.0.0"
+      }
+    },
+    "com.unity.modules.imageconversion": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.imgui": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.jsonserialize": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.particlesystem": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.physics": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.physics2d": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.screencapture": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.imageconversion": "1.0.0"
+      }
+    },
+    "com.unity.modules.subsystems": {
+      "version": "1.0.0",
+      "depth": 1,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.jsonserialize": "1.0.0"
+      }
+    },
+    "com.unity.modules.terrain": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.terrainphysics": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.physics": "1.0.0",
+        "com.unity.modules.terrain": "1.0.0"
+      }
+    },
+    "com.unity.modules.tilemap": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.physics2d": "1.0.0"
+      }
+    },
+    "com.unity.modules.ui": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.uielements": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.ui": "1.0.0",
+        "com.unity.modules.imgui": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0"
+      }
+    },
+    "com.unity.modules.umbra": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.unityanalytics": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0"
+      }
+    },
+    "com.unity.modules.unitywebrequest": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.unitywebrequestassetbundle": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.assetbundle": "1.0.0",
+        "com.unity.modules.unitywebrequest": "1.0.0"
+      }
+    },
+    "com.unity.modules.unitywebrequestaudio": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.modules.audio": "1.0.0"
+      }
+    },
+    "com.unity.modules.unitywebrequesttexture": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.modules.imageconversion": "1.0.0"
+      }
+    },
+    "com.unity.modules.unitywebrequestwww": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.modules.unitywebrequestassetbundle": "1.0.0",
+        "com.unity.modules.unitywebrequestaudio": "1.0.0",
+        "com.unity.modules.audio": "1.0.0",
+        "com.unity.modules.assetbundle": "1.0.0",
+        "com.unity.modules.imageconversion": "1.0.0"
+      }
+    },
+    "com.unity.modules.vehicles": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.physics": "1.0.0"
+      }
+    },
+    "com.unity.modules.video": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.audio": "1.0.0",
+        "com.unity.modules.ui": "1.0.0",
+        "com.unity.modules.unitywebrequest": "1.0.0"
+      }
+    },
+    "com.unity.modules.vr": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.jsonserialize": "1.0.0",
+        "com.unity.modules.physics": "1.0.0",
+        "com.unity.modules.xr": "1.0.0"
+      }
+    },
+    "com.unity.modules.wind": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.xr": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.physics": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0",
+        "com.unity.modules.subsystems": "1.0.0"
+      }
+    }
+  }
+}
