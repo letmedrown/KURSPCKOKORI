@@ -3,7 +3,57 @@ guid: 9e3fdeca6aaef31459edf7fab8296b67
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jewels
+    second: {fileID: 2100000, guid: 093973452898d8e4eb4b62051593fad5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 4e43f08d69ad7bc408427f387acc480a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orb
+    second: {fileID: 2100000, guid: 2928956f543882c4db929be0f53f0066, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orb.002
+    second: {fileID: 2100000, guid: cac930e52b742ad40af47fa1db17eb69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jewels
+    second: {fileID: 2100000, guid: e40926005bd503046b48503bf9ac9fdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jewels 1.001
+    second: {fileID: 2100000, guid: e97c31761d0ad384fa2a9f515bac63be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jewels 2.001
+    second: {fileID: 2100000, guid: 2b4206a9998011a4bb71c2e7c8264f6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal.016
+    second: {fileID: 2100000, guid: 5775ab7d7e9d518459ef0b396f8c8c32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal.017
+    second: {fileID: 2100000, guid: e14d5e7710931ef4d8e3b6f69e2a3683, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orb
+    second: {fileID: 2100000, guid: 5193bac2984f91342bc030351b7bbf26, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -32,7 +82,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
-    isReadable: 0
+    isReadable: 1
   meshes:
     lODScreenPercentages: []
     globalScale: 1
@@ -74,7 +124,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips: []

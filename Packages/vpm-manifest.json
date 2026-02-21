@@ -114,9 +114,6 @@
     "dev.hai-vr.blendtree-viewer": {
       "version": "1.0.7"
     },
-    "dev.hai-vr.denormalized-avatar-exporter": {
-      "version": "1.1.0"
-    },
     "wtf.buddyworks.editortools": {
       "version": "1.2.0"
     },
@@ -149,6 +146,15 @@
     },
     "com.happyrobot33.buildsizeviewer": {
       "version": "1.0.0"
+    },
+    "dev.vrlabs.blendtreebuilder": {
+      "version": "0.8.2"
+    },
+    "dev.hai-vr.denormalized-avatar-exporter": {
+      "version": "1.1.0"
+    },
+    "yueby.tools.mirror-tool": {
+      "version": "1.0.2"
     }
   },
   "locked": {
@@ -355,10 +361,6 @@
       "version": "1.0.7",
       "dependencies": {}
     },
-    "dev.hai-vr.denormalized-avatar-exporter": {
-      "version": "1.1.0",
-      "dependencies": {}
-    },
     "wtf.buddyworks.editortools": {
       "version": "1.2.0",
       "dependencies": {}
@@ -414,6 +416,26 @@
     },
     "com.happyrobot33.buildsizeviewer": {
       "version": "1.0.0",
+      "dependencies": {}
+    },
+    "dev.vrlabs.blendtreebuilder": {
+      "version": "0.8.2",
+      "dependencies": {
+        "com.vrchat.avatars": "^3.0.0"
+      }
+    },
+    "dev.hai-vr.denormalized-avatar-exporter": {
+      "version": "1.1.0",
+      "dependencies": {}
+    },
+    "yueby.tools.mirror-tool": {
+      "version": "1.0.2",
+      "dependencies": {
+        "yueby.tools.editor-core": ">=1.0.0"
+      }
+    },
+    "yueby.tools.editor-core": {
+      "version": "1.0.6",
       "dependencies": {}
     }
   }

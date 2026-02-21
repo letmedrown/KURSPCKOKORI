@@ -306,6 +306,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "dev.hai-vr.denormalized-avatar-exporter": {
+      "version": "file:dev.hai-vr.denormalized-avatar-exporter",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "dev.hai-vr.property-finder": {
       "version": "file:dev.hai-vr.property-finder",
       "depth": 0,
@@ -328,6 +334,12 @@
     },
     "dev.vrlabs.av3manager": {
       "version": "file:dev.vrlabs.av3manager",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "dev.vrlabs.blendtreebuilder": {
+      "version": "file:dev.vrlabs.blendtreebuilder",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
@@ -498,6 +510,18 @@
     },
     "wtf.buddyworks.toolbox": {
       "version": "file:wtf.buddyworks.toolbox",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "yueby.tools.editor-core": {
+      "version": "file:yueby.tools.editor-core",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "yueby.tools.mirror-tool": {
+      "version": "file:yueby.tools.mirror-tool",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
