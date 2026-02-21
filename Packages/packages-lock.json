@@ -306,12 +306,6 @@
       "source": "embedded",
       "dependencies": {}
     },
-    "dev.hai-vr.denormalized-avatar-exporter": {
-      "version": "file:dev.hai-vr.denormalized-avatar-exporter",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "dev.hai-vr.property-finder": {
       "version": "file:dev.hai-vr.property-finder",
       "depth": 0,
