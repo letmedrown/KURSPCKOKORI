@@ -69,7 +69,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Brightness: 0.189
+    - _Brightness: 0.133
     - _BumpScale: 1
     - _CullAngle: 0.103
     - _CullVelocity: 0
@@ -83,7 +83,7 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _HeightMapBrightness: 0.249
+    - _HeightMapBrightness: 0.166
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
@@ -102,8 +102,8 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _FurColor: {r: 0.5157442, g: 0.24705881, b: 1, a: 0.7607843}
-    - _Gravity: {r: 0, g: 0, b: 0, a: 0}
+    - _FurColor: {r: 0.53333336, g: 0.30588236, b: 0.7529412, a: 1}
+    - _Gravity: {r: 0, g: 0, b: 0, a: 0.01}
     - _SkinColor: {r: 1, g: 1, b: 1, a: 0}
     - _Velocity: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []

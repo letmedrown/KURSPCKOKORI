@@ -1,0 +1,39 @@
+{
+    "keys": [
+        "kurs - light/Armature/Hips/Spine/Chest/Shoulder_L/Arm_L/Elbow_L/Wrist_L/Ring Finger _L/vivi_set_2",
+        "kurs - light/Armature/Hips/Spine/Chest/Shoulder_L/Arm_L/Elbow_L/Wrist_L/Ring Finger _L/vivi_set_2_ring chain L",
+        "kurs - light/Armature/Hips/Spine/Chest/Shoulder_R/Arm_R/Elbow_R/Wrist_R/Ring Finger _R/vivi_set_2_ring chain R/ring chain R/right ring chain root"
+    ],
+    "values": [
+        {
+            "targetObjectPaths": [
+                "kurs - light"
+            ],
+            "mirrorAxis": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "targetObjectPaths": [
+                "kurs - light/Armature/Hips/Spine/Chest/Shoulder_L/Arm_L/Elbow_L/Wrist_L/Ring Finger _L/vivi_set_2_ring chain L"
+            ],
+            "mirrorAxis": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "targetObjectPaths": [
+                ""
+            ],
+            "mirrorAxis": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        }
+    ]
+}

@@ -20,6 +20,7 @@ Teeh's Quick Shading Models/QuickFlat;2be46401421f6214296d9c0d90df8745
 Teeh's Quick Shading Models/QuickToon;a9b85a227a5eca54eb8736f6221ed4b3
 Teeh's Quick Shading Models/QuickWrap;c3bc736fe193e3f43a32e9f2ab399887
 TwoPassParticle/Aura;e901563556c598048b412751960648fc
+eyes;cc2f4abb5da54f649b7f7c27b2439791
 LilToon Shading Preset;bf8c5ab91bf6aaa49b949bf74998ddc2
 MP_Slime;a4f86e8a74171954fbc15b5ee578dfb7
 PBR+GI Compatibility;97cc2bfac2a8e7e4692d7c7ad9eeec80
